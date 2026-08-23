@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Emma Hammond"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: alan.qmd
+        text: ALAN
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

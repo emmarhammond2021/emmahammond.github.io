@@ -1,0 +1,9 @@
+---
+title: "CV"
+---
+
+[Download CV (PDF) ↓](files/Emma_Hammond_CV_2026.pdf){.cv-download}
+
+<iframe src="files/Emma_Hammond_CV_2026.pdf" width="100%" height="1000px" style="border: none;">
+
+</iframe>
