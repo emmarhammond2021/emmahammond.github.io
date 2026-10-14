@@ -12,7 +12,7 @@ body-classes: about-page
 
 ::: {.about-text}
 
-I am a PhD candidate and HHMI Gilliam Fellow in the Marler Lab at the University of Wisconsin–Madison. I study how internal physiological states shape social decision-making. Using approaches from behavioral neuroscience and neuroimmunology in monogamous California mice, my research explores how immune signaling, social environments, and functional neuroplasticity interact to shape behavior. Ultimately, I aim to understand how the immune system acts not simply in response to disease, but as an active regulator of social behavior.
+I am a PhD candidate and HHMI Gilliam Fellow in the [Marler Lab](https://marlerlab.psych.wisc.edu/) at the University of Wisconsin–Madison. I study how internal physiological states shape social decision-making. Using approaches from behavioral neuroscience and neuroimmunology in monogamous California mice, my research explores how immune signaling, social environments, and functional neuroplasticity interact to shape behavior. Ultimately, I aim to understand how the immune system acts not simply in response to disease, but as an active regulator of social behavior.
 
 :::
 
